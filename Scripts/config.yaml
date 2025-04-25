@@ -1,0 +1,5 @@
+clustering:
+  n_clusters: 4
+  pca_variance: 0.9
+paths:
+  raw_data: "data/raw/customers.csv"
